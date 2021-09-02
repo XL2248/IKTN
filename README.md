@@ -1,5 +1,5 @@
 # IKTN
-Code for [An Iterative Knowledge Transfer Network with Routing for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2004.01935) of EMNLP21 Findings
+Code for [An Iterative Knowledge Transfer Network with Routing for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2004.01935) of EMNLP21 Findings (early version)
 
 ## Introduction
 
